@@ -16,7 +16,7 @@ Notez que l'utilisation de données venant de l'API OpenAI est limitée.<br>
 **Lancement : py bot.ini** <br>
 
 Commandes:  <br>
-**!help**
+**!help** <br>
 **!generate sujet nombre_de_tokens** <br>
 
 ![Apercu](/screenexample.png?raw=true "Apercu") 
