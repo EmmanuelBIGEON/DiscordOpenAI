@@ -1,22 +1,22 @@
 # DiscordOpenAI
-Petite application permettant de déployer un bot discord utilisant l'API d'OpenAI
+**Petite application permettant de déployer un bot discord utilisant l'API d'OpenAI** <br> 
+ 
+**Lancer l'environnement** (Script/activate.bat) <br>
 
-Lancer l'environnement (Script/activate.bat) 
+**Variables d'environnement :** (conf.ini)<br>
+    openai_api_key (OpenAI API token)<br>
+    discord_token (Token du bot discord)<br>
 
-Variables d'environnement : (conf.ini)
-    openai_api_key (OpenAI API token)
-    discord_token (Token du bot discord)
+**Dépendances :** <br>
+    pip install openai<br>
+    pip install discord<br>
 
-Dépendances : 
-    pip install openai
-    pip install discord
+Notez que l'utilisation de données venant de l'API OpenAI est limitée.<br>
 
-Notez que l'utilisation de données venant de l'API OpenAI est limitée.
+**Lancement : py bot.ini** <br>
 
-Lancement : py bot.ini
+Commandes:  <br>
+**!help**
+**!generate sujet nombre_de_tokens** <br>
 
-Commandes: 
-!help
-!generate sujet nombre_de_tokens
-
-![Apercu](/screenexample.png?raw=true "Apercu")
+![Apercu](/screenexample.png?raw=true "Apercu") 
