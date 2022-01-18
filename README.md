@@ -14,3 +14,9 @@ Dépendances :
 Notez que l'utilisation de données venant de l'API OpenAI est limitée.
 
 Lancement : py bot.ini
+
+Commandes: 
+!help
+!generate sujet nombre_de_tokens
+
+![Apercu](/screenexample.png?raw=true "Apercu")
