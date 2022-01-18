@@ -13,7 +13,7 @@
 
 Notez que l'utilisation de données venant de l'API OpenAI est limitée.<br>
 
-**Lancement : py bot.ini** <br>
+**Lancement : py bot.py** <br>
 
 Commandes:  <br>
 **!help** <br>
